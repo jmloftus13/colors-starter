@@ -100,6 +100,8 @@
 	},
 	"file_history":
 	[
+		"/Users/jml/Desktop/projects/206-responsive/03.01-206-colors-starter/index.html",
+		"/Users/jml/Desktop/projects/206-responsive/03.01-206-colors-starter/css/main.css",
 		"/Users/jml/Desktop/Projects/206-ResponsiveDesign/02.02-206-static-to-fluid/02.02-starter-code/index.html",
 		"/Users/jml/Desktop/Projects/206-ResponsiveDesign/02.02-206-static-to-fluid/02.02-starter-code/css/style.css",
 		"/Users/jml/Desktop/Projects/206-ResponsiveDesign/02.01-206-starter-files/css/style.css",
@@ -225,9 +227,7 @@
 		"/Users/jml/Desktop/sample_app/app/views/products/backup-index.html.erb",
 		"/Users/jml/Desktop/sample_app/db/migrate/20170106230912_rename_color_to_colour_in_products.rb",
 		"/Users/jml/Desktop/sample_app/db/migrate/20170104005100_add_color_to_products.rb",
-		"/Users/jml/Desktop/sample_app/app/assets/javascripts/static_pages.coffee",
-		"/Users/jml/Desktop/sample_app/app/assets/javascripts/application.js",
-		"/Users/jml/Desktop/sample_app/UnnecessaryFile"
+		"/Users/jml/Desktop/sample_app/app/assets/javascripts/static_pages.coffee"
 	],
 	"find":
 	{
